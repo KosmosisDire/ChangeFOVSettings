@@ -1,0 +1,9 @@
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOV\ChangeFOV.deps.json
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOV\ChangeFOV.dll
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOV\ChangeFOV.pdb
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOV.csproj.AssemblyReference.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOV.AssemblyInfoInputs.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOV.AssemblyInfo.cs
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOV.csproj.CoreCompileInputs.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOV.dll
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOV.pdb

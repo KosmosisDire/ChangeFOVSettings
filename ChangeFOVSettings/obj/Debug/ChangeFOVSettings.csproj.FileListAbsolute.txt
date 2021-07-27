@@ -1,0 +1,18 @@
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOV\ChangeFOVSettings.deps.json
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOV\ChangeFOVSettings.dll
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOV\ChangeFOVSettings.pdb
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOVSettings.AssemblyInfoInputs.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOVSettings.AssemblyInfo.cs
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOVSettings.csproj.CoreCompileInputs.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOVSettings.dll
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOVSettings.pdb
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOVSettings\ChangeFOVSettings.deps.json
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOVSettings\ChangeFOVSettings.dll
+C:\Users\NathanGeorge\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Testing\BepInEx\plugins\KosmosisDire-ChangeFOVSettings\ChangeFOVSettings.pdb
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOV\Template\obj\Debug\ChangeFOVSettings.csproj.AssemblyReference.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOVSettings\ChangeFOVSettings\obj\Debug\ChangeFOVSettings.csproj.AssemblyReference.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOVSettings\ChangeFOVSettings\obj\Debug\ChangeFOVSettings.AssemblyInfoInputs.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOVSettings\ChangeFOVSettings\obj\Debug\ChangeFOVSettings.AssemblyInfo.cs
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOVSettings\ChangeFOVSettings\obj\Debug\ChangeFOVSettings.csproj.CoreCompileInputs.cache
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOVSettings\ChangeFOVSettings\obj\Debug\ChangeFOVSettings.dll
+C:\NathanGeorge\Main Documents\Projects\Modding\Risk of Rain 2\ChangeFOVSettings\ChangeFOVSettings\obj\Debug\ChangeFOVSettings.pdb
