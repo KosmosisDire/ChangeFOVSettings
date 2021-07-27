@@ -52,9 +52,9 @@ namespace ChangeFOVSettings
             currentCamera.baseFov = FOVSlider.GetValue();
         }
 
-        void Update() 
+        void Update()
         {
-            if (!SprintFOVEffectsCheckbox.GetValue()) 
+            if (!SprintFOVEffectsCheckbox.GetValue())
             {
                 if (RoR2.Run.instance) 
                 {
