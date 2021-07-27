@@ -16,7 +16,7 @@ namespace ChangeFOVSettings
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "KosmosisDire";
         public const string PluginName = "ChangeFOVSettings";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         //debugging config
         public static ConfigEntry<bool> consoleLoggingConfig;
